@@ -5,7 +5,7 @@
 
 namespace DataStructures
 {
-    class maiscreen
+    class mainscreen
 
     {
         static void Main(string[] args)
