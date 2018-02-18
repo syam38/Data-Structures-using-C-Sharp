@@ -1,4 +1,4 @@
-//The following program implements linked list using C# language with add at the fromt,add at the end,delete at the front,delete at the end.
+//The following program implements linked list using C# language with add at the front,add at the end,delete at the front,delete at the end.
 // Program is written without using the collections provided by the framework.
 
  using System;
