@@ -1,4 +1,4 @@
-// implementing stack and its operations using c# language using calsses 
+// implementing stack and its operations using c# language using classes 
 using System;
 namespace DataStructures {
     class mainscreen
